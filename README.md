@@ -5,7 +5,7 @@
 
 This repository contains the official PyTorch implementation for the paper:  **Feature Constraints Map Generate Model Integrating Generative Adversarial and Diffusion Denoising** . Our framework introduces a novel hybrid model that synergizes Generative Adversarial Networks (GANs) and Diffusion Denoising Models (DMs) for high-fidelity map generation from remote sensing imagery.
 
-![Figure 1](figures\fig1.png)
+![Figure 1](figures/fig1.png)
 
 *Figure 1: The overall framework structure.*
 
@@ -22,13 +22,13 @@ Our model demonstrates significant improvements over existing methods in qualita
 
 #### Qualitative Comparison
 
-![Figure 2](figures\fig2.png)
+![Figure 2](figures/fig2.png)
 
 *Figure 2: Comparison with other common image translation models (Pix2Pix, CycleGAN, Pix2PixHD).*
 
 #### Detailed View
 
-![Figure 3](figures\fig3.png)
+![Figure 3](figures/fig3.png)
 
 *Figure 3: Our model shows superior performance in reconstructing occluded and fine roads.*
 
