@@ -1,6 +1,7 @@
 # GDFM: Generative Diffusion-Fused Model for Remote Sensing to Map Translation
 
 ***Chenxing Sun** & **Xixi Fan***
+
 ***GsimLab** from **China University of Geosciences***
 
 This repository contains the official PyTorch implementation for the paper:  **Feature Constraints Map Generate Model Integrating Generative Adversarial and Diffusion Denoising** . Our framework introduces a novel hybrid model that synergizes Generative Adversarial Networks (GANs) and Diffusion Denoising Models (DMs) for high-fidelity map generation from remote sensing imagery.
